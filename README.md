@@ -16,8 +16,4 @@ Install and authorize the DHCP Server role.
 - Verified DHCP console access
 - Confirmed server authorization status
 
-## Screenshots
-- [DHCP role installed](screenshots/L09-01_DHCPRole.png)
-- [DHCP console](screenshots/L09-02_DHCPConsole.png)
-- [DHCP authorized](screenshots/L09-03_DHCPAuthorized.png)
-- [View all screenshots](screenshots/)
+
