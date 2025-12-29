@@ -14,6 +14,6 @@ Install and authorize the DHCP Server role.
 
 ## Validation
 - Verified DHCP console access
-- Confirmed server authorization status
+- Confirmed server authorization status 
 
 
